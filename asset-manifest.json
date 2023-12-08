@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/webRtcReact/static/css/main.754d5b50.chunk.css",
+    "main.js": "/webRtcReact/static/js/main.859e2f47.chunk.js",
+    "main.js.map": "/webRtcReact/static/js/main.859e2f47.chunk.js.map",
+    "runtime-main.js": "/webRtcReact/static/js/runtime-main.cb72d740.js",
+    "runtime-main.js.map": "/webRtcReact/static/js/runtime-main.cb72d740.js.map",
+    "static/js/2.a1c3f1a7.chunk.js": "/webRtcReact/static/js/2.a1c3f1a7.chunk.js",
+    "static/js/2.a1c3f1a7.chunk.js.map": "/webRtcReact/static/js/2.a1c3f1a7.chunk.js.map",
+    "index.html": "/webRtcReact/index.html",
+    "static/css/main.754d5b50.chunk.css.map": "/webRtcReact/static/css/main.754d5b50.chunk.css.map",
+    "static/js/2.a1c3f1a7.chunk.js.LICENSE.txt": "/webRtcReact/static/js/2.a1c3f1a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb72d740.js",
+    "static/js/2.a1c3f1a7.chunk.js",
+    "static/css/main.754d5b50.chunk.css",
+    "static/js/main.859e2f47.chunk.js"
+  ]
+}
